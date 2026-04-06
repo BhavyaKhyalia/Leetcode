@@ -5,3 +5,4 @@
 ## Medium
 2. Add Two Numbers: [Problems/AddTwoNumbers.cpp](https://github.com/bhavykh1/Leetcode/blob/5a8d5e9f1ad90f59e40481a86ebb66fbd2842a03/Problems/AddTwoNumbers.cpp)
 3. Longest Substring Without Repeating Characters: [Problems/LongestSubstringWithoutRepeatingCharacters.cpp](https://github.com/bhavykh1/Leetcode/blob/d2ae5a18d566301d6d847fba969db2f8614e2493/Problems/LongestSubstringWithoutRepeatingCharacters.cpp)
+4. Median of Two Sorted Arrays: [Problems/MedianofTwoSortedArrays.cpp](https://github.com/bhavykh1/Leetcode/blob/87a746212ca368da00e1177f50a4a3a1c72f8e07/Problems/MedianofTwoSortedArrays.cpp)
